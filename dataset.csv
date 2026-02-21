@@ -1,0 +1,31 @@
+ text,label
+"dominant competitive leader aggressive ambitious confident",masculine
+"strong assertive independent decisive professional",masculine
+"aggressive sales driven competitive results oriented",masculine
+"confident ambitious strong leadership qualities",masculine
+"assertive dominant strategic thinker",masculine
+"independent decisive competitive performer",masculine
+"aggressive ambitious goal oriented executive",masculine
+"strong dominant personality with assertive communication",masculine
+"competitive environment strong performance mindset",masculine
+"confident and ambitious business leader",masculine
+"nurturing supportive empathetic compassionate professional",feminine
+"collaborative understanding and considerate team member",feminine
+"empathetic supportive and nurturing personality",feminine
+"compassionate caring and understanding individual",feminine
+"supportive collaborative workplace mentor",feminine
+"young energetic digital native professional",age_bias
+"recent graduate preferred for this role",age_bias
+"looking for fresh young talent",age_bias
+"must be under 30 years old",age_bias
+"seeking dynamic and youthful candidate",age_bias
+"10+ years mandatory experience required",experience_bias
+"only candidates with 15 years experience apply",experience_bias
+"overqualified applicants not preferred",experience_bias
+"minimum 12 years experience required",experience_bias
+"freshers not allowed for this role",experience_bias
+"skilled software engineer working in team",neutral
+"responsible organized and solution oriented developer",neutral
+"efficient data analyst with technical skills",neutral
+"team oriented backend developer with problem solving ability",neutral
+"organized and responsible project coordinator",neutral
